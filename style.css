@@ -1,4 +1,8 @@
+body{
+    background-color: black;
+}
+
 header {
-    background-color: #424E61;
-    color: white;
+    background-color: #000000;
+    color: rgb(0, 0, 0);
 }
